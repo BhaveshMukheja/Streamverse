@@ -24,7 +24,7 @@ function App() {
     <div className="App">
       <Navbar showNotifModal={showNotifModal} />
       <Routes>
-        <Route exact path="/" element={<Homepage />} />
+        <Route exact path="/Streamverse" element={<Homepage />} />
         <Route
           exact
           path="/stream"
