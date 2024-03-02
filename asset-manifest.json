@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Streamverse/static/css/main.b6a94b71.css",
-    "main.js": "/Streamverse/static/js/main.8dcf9cb6.js",
+    "main.js": "/Streamverse/static/js/main.ef03726a.js",
     "static/js/787.b51bdaaf.chunk.js": "/Streamverse/static/js/787.b51bdaaf.chunk.js",
     "index.html": "/Streamverse/index.html",
     "main.b6a94b71.css.map": "/Streamverse/static/css/main.b6a94b71.css.map",
-    "main.8dcf9cb6.js.map": "/Streamverse/static/js/main.8dcf9cb6.js.map",
+    "main.ef03726a.js.map": "/Streamverse/static/js/main.ef03726a.js.map",
     "787.b51bdaaf.chunk.js.map": "/Streamverse/static/js/787.b51bdaaf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6a94b71.css",
-    "static/js/main.8dcf9cb6.js"
+    "static/js/main.ef03726a.js"
   ]
 }
