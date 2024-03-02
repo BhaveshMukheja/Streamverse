@@ -23,7 +23,7 @@ const Navbar = (props) => {
     <div>
       <header className="header" id="header">
         <nav className="navbar container">
-          <Link to="/" className="brand">
+          <Link to="/Streamverse" className="brand">
             Streamverse
           </Link>
           <div className="search">
